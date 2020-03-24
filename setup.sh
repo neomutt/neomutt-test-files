@@ -3,7 +3,7 @@
 chmod 000 maildir/damson
 chmod 000 mbox/endive.mbox
 
-touch -d "2020-01-01" file/stat/old
-touch -d "2020-02-02" file/stat/same?
-touch -d "2020-03-03" file/stat/new
+touch -t 202001011200 file/stat/old
+touch -t 202002021200 file/stat/same?
+touch -t 202003031200 file/stat/new
 
