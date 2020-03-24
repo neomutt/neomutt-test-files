@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 chmod 000 maildir/damson
 chmod 000 mbox/endive.mbox
