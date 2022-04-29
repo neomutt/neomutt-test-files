@@ -19,8 +19,8 @@ See also: [Test code coverage](https://coveralls.io/github/neomutt/neomutt)
 git clone https://github.com/neomutt/neomutt
 git clone https://github.com/neomutt/neomutt-test-files
 
-# NEOMUTT_TEST_DIR must be an absolute path or a test will fail
-export NEOMUTT_TEST_DIR="$HOME/neomutt-test-files"
+# NEOMUTT_TEST_DIR must be an absolute path or the tests will fail
+export NEOMUTT_TEST_DIR="$PWD/neomutt-test-files"
 
 (cd neomutt-test-files; ./setup.sh)
 ```
