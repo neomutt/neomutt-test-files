@@ -47,7 +47,7 @@ By calling the test program directly, you can run individual tests.
 ```sh
 test/neomutt-test -l                     # List the test names
 test/neomutt-test test_mutt_str_strncmp  # Run a particular test
-test/neomutt-test mutt_str               # Rul all tests matching this string
+test/neomutt-test mutt_str               # Run all tests matching this string
 test/neomutt-test -v test_url_free       # Run verbosely
 ```
 
