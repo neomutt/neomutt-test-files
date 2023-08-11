@@ -27,12 +27,15 @@ export NEOMUTT_TEST_DIR="$PWD/neomutt-test-files"
 
 ## Build
 
-Next, add an option to configure, to enable testing:
+Next, build NeoMutt as normal:
 
 ```
 cd neomutt
-./configure --testing [YOUR-OTHER-OPTIONS]
+./configure [YOUR-OPTIONS]
 make
+
+Note: The `--testing` configure option is no longer needed.
+
 ```
 
 ## Testing
