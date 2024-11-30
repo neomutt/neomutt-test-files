@@ -6,10 +6,10 @@ for the main NeoMutt source.
 The [NeoMutt source code](https://github.com/neomutt/neomutt) comes with a set
 of [unit tests](https://en.wikipedia.org/wiki/Unit_testing).
 
-They cover the [Address](https://neomutt.org/code/address.html),
-[Core](https://neomutt.org/code/core.html),
-[Email](https://neomutt.org/code/email.html)
-and [Mutt](https://neomutt.org/code/mutt.html) libraries.
+They cover the [Address](https://neomutt.org/code/lib_address.html),
+[Core](https://neomutt.org/code/lib_core.html),
+[Email](https://neomutt.org/code/lib_email.html)
+and [Mutt](https://neomutt.org/code/lib_mutt.html) libraries.
 
 See also: [Test code coverage](https://coveralls.io/github/neomutt/neomutt)
 
