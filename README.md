@@ -11,6 +11,9 @@ They cover the [Address](https://neomutt.org/code/lib_address.html),
 [Email](https://neomutt.org/code/lib_email.html)
 and [Mutt](https://neomutt.org/code/lib_mutt.html) libraries.
 
+These files are released under the GPL v2+ (GNU General Public License). 
+See [LICENSE.md](LICENSE.md).
+
 See also: [Test code coverage](https://coveralls.io/github/neomutt/neomutt)
 
 ## Setup
