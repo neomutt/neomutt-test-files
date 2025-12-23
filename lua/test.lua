@@ -1,1 +1,1 @@
-print('hello world')
+local num = 42
